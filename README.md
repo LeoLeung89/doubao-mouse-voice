@@ -4,6 +4,10 @@
 
 > **实验版：**用户反馈在其 Mac 上切换为左 Option 后，鼠标长按可以唤起豆包语音。其他系统和输入法版本尚未测试；发布包本身也尚未完成独立安装测试。
 
+## 下载软件
+
+[下载 macOS Apple Silicon 实验版](https://github.com/LeoLeung89/doubao-mouse-voice/releases/tag/v0.1.0-beta.1)。压缩包仅适用于 Apple 芯片 Mac；Intel Mac 未验证。
+
 ## 工作方式
 
 - 左键按住 0.6 秒后模拟按住 Option，松开左键后释放 Option。豆包自身识别长按还可能需要额外时间。

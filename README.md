@@ -4,6 +4,10 @@
 
 > 已在一台 Mac 上确认：设置为左 Option 后，鼠标长按可以唤起豆包语音。不同机型、macOS 和豆包输入法版本的兼容性尚未全面测试；下载包尚未完成独立安装测试。
 
+## 界面截图
+
+![菜单栏中的鼠标语音工具](docs/screenshots/menu.png)
+
 ## 下载软件
 
 [下载 macOS Apple Silicon 版本](https://github.com/LeoLeung89/doubao-mouse-voice/releases/tag/v0.1.0-beta.1)。压缩包仅适用于 Apple 芯片 Mac；Intel Mac 未验证。

@@ -1,12 +1,12 @@
-# 鼠标长按豆包语音 macOS 版（实验版）
+# 鼠标长按豆包语音 macOS 版
 
-这是 **macOS 专用**菜单栏工具：监听鼠标左键长按，尝试模拟长按 Option，调用已安装的豆包输入法语音输入。Windows 版未开发、未测试，本项目不能直接在 Windows 上使用。
+这是 **macOS 专用**菜单栏工具：监听鼠标左键长按，模拟长按 Option，调用已安装的豆包输入法语音输入。Windows 版未开发、未测试，本项目不能直接在 Windows 上使用。
 
-> **实验版：**用户反馈在其 Mac 上切换为左 Option 后，鼠标长按可以唤起豆包语音。其他系统和输入法版本尚未测试；发布包本身也尚未完成独立安装测试。
+> 已在一台 Mac 上确认：设置为左 Option 后，鼠标长按可以唤起豆包语音。不同机型、macOS 和豆包输入法版本的兼容性尚未全面测试；下载包尚未完成独立安装测试。
 
 ## 下载软件
 
-[下载 macOS Apple Silicon 实验版](https://github.com/LeoLeung89/doubao-mouse-voice/releases/tag/v0.1.0-beta.1)。压缩包仅适用于 Apple 芯片 Mac；Intel Mac 未验证。
+[下载 macOS Apple Silicon 版本](https://github.com/LeoLeung89/doubao-mouse-voice/releases/tag/v0.1.0-beta.1)。压缩包仅适用于 Apple 芯片 Mac；Intel Mac 未验证。
 
 ## 工作方式
 

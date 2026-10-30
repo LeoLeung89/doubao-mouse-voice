@@ -12,6 +12,8 @@
 
 ## 下载软件
 
+**[下载新图标版 macOS 安装包](https://github.com/LeoLeung89/doubao-mouse-voice/releases/download/v0.1.0-beta.1/voice-macos-icon.zip)**（Apple 芯片；临时签名。覆盖旧版后，相关系统权限可能需要重新授权；建议先备份旧版。）
+
 [下载 macOS Apple Silicon 版本](https://github.com/LeoLeung89/doubao-mouse-voice/releases/tag/v0.1.0-beta.1)。压缩包仅适用于 Apple 芯片 Mac；Intel Mac 未验证。
 
 ## 工作方式

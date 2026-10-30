@@ -1,7 +1,11 @@
 #!/bin/bash
 set -euo pipefail
 cd "$(dirname "$0")"
-APP="$PWD/鼠标长按豆包语音.app"
+APP="$PWD/build/鼠标长按豆包语音.app"
+if [ -e "$APP" ]; then
+  echo "构建目标已存在：$APP。请先备份或移走旧构建，避免覆盖。" >&2
+  exit 1
+fi
 mkdir -p "$APP/Contents/MacOS"
 cat > "$APP/Contents/Info.plist" <<'PLIST'
 <?xml version="1.0" encoding="UTF-8"?>
